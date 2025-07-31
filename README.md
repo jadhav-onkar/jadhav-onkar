@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Onkar Jadhav
   <img src="https://komarev.com/ghpvc/?username=jadhav-onkar&label=Profile%20views&color=0e75b6&style=flat" alt="jadhav-onkar" style="float: left;"/>
+  
 ## 💫 About Me:
 🎓 Graduate in Artificial Intelligence & Machine Learning (AIML) from PESMCOE, Pune  <br>💡 Passionate about building intelligent systems and scalable web applications  <br>🧑‍💻 Experienced in developing full-stack applications with modern web technologies  <br>🏆 Silver medalist in NPTEL, hackathon participant & front-end competition winner
 
